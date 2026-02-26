@@ -13,5 +13,7 @@ Projeto criado na aula da disciplina de programação Front-End, na Unicesumar, 
 - Bootstrap
 - Git 
 
+#### Funcionalidades
+
 ### Autor João Pedro Guimarães
 (João Pedro Guimarães)[https://www.linkedin.com/in/jo%C3%A3opedroguimar%C3%A3es/]
